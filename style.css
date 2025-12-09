@@ -30,6 +30,7 @@ img{
 
 .choices{
     display: flex;
+    flex-wrap = wrap;
     justify-content: center;
     align-items: center;
     gap: 3rem;
@@ -66,4 +67,5 @@ img{
     display: inline;
     padding: 1rem;
     border-radius: 1rem;
+
 }
